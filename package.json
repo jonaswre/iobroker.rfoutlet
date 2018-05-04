@@ -1,0 +1,46 @@
+{
+  "name": "iobroker.rfoutlet",
+  "version": "0.6.0",
+  "description": "ioBroker rfoutlet Adapter",
+  "author": {
+    "name": "Jonas Wrede",
+    "email": "jonas@wrede.sh"
+  },
+  "contributors": [
+    {
+      "name": "Jonas Wrede",
+      "email": "jonas@wrede.sh"
+    }
+  ],
+  "homepage": "https://github.com/ioBroker/ioBroker.rfoutlet",
+  "license": "MIT",
+  "keywords": [
+    "ioBroker",
+    "rfoutlet",
+    "Smart Home",
+    "home automation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ioBroker/ioBroker.rfoutlet"
+  },
+  "dependencies": {
+    "async": "^2.6.0",
+    "better-queue": "^3.8.7",
+    "rpi-433": "^2.1.0",
+    "sleep-async": "^1.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "mocha": "^4.1.0",
+    "chai": "^4.1.2"
+  },
+  "main": "main.js",
+  "scripts": {
+    "test": "node node_modules/mocha/bin/mocha --exit"
+  },
+  "bugs": {
+    "url": "https://github.com/ioBroker/ioBroker.rfoutlet/issues"
+  },
+  "readmeFilename": "README.md"
+}
