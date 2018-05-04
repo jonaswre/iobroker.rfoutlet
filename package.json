@@ -1,6 +1,6 @@
 {
   "name": "iobroker.rfoutlet",
-  "version": "0.6.0",
+  "version": "1.0.0",
   "description": "ioBroker rfoutlet Adapter",
   "author": {
     "name": "Jonas Wrede",
@@ -12,7 +12,7 @@
       "email": "jonas@wrede.sh"
     }
   ],
-  "homepage": "https://github.com/ioBroker/ioBroker.rfoutlet",
+  "homepage": "https://github.com/jonwrede/iobroker.rfoutlet",
   "license": "MIT",
   "keywords": [
     "ioBroker",
@@ -22,7 +22,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ioBroker/ioBroker.rfoutlet"
+    "url": "https://github.com/jonwrede/iobroker.rfoutlet"
   },
   "dependencies": {
     "async": "^2.6.0",
@@ -40,7 +40,7 @@
     "test": "node node_modules/mocha/bin/mocha --exit"
   },
   "bugs": {
-    "url": "https://github.com/ioBroker/ioBroker.rfoutlet/issues"
+    "url": "https://github.com/jonwrede/iobroker.rfoutlet/issues"
   },
   "readmeFilename": "README.md"
 }
