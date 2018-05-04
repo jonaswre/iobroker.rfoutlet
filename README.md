@@ -5,7 +5,7 @@
 
 Adapter to connect 433mHz devices in the ioBroker infrastructure.
 
-###Requirements 
+### Requirements 
 1. wireingPi ```http://wiringpi.com```
 2. 433 mHz Receiver [*GPIO 2*]
 3. 433 mHz Transmitter [*GPIO 0*]
