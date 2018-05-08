@@ -1,10 +1,10 @@
 {
     "common": {
         "name": "rfoutlet",
-        "version": "1.0.0",
+        "version": "1.0.1",
 		"title": "rfOutlet adapter",
         "titleLang": {
-            "en": "Javascript/Node.js based rfoutlet adapter",
+            "en": "rfoutlet adapter",
             "de": "Javascript / Node.js basierte Vorlagenadapter",
             "ru": "Адаптер шаблонов на основе Javascript / Node.js",
             "pt": "Adaptador de modelo baseado em Javascript / Node.js",
@@ -43,10 +43,10 @@
         "enabled": true,
         "extIcon": "https://raw.githubusercontent.com/jonwrede/iobroker.rfoutlet/master/admin/rfoutlet.png",
         "keywords": ["rfoutlet", "vis", "GUI", "graphical", "scada"],
-        "readme": "https://github.com/ioBroker/ioBroker.rfoutlet/blob/master/README.md",
+        "readme": "https://github.com/jonwrede/iobroker.rfoutlet/blob/master/README.md",
         "loglevel": "info",
         "type": "general",
-        "restartAdapters": ["vis"]
+        "restartAdapters": []
     },
     "native": {
     },
