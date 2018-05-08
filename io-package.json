@@ -24,7 +24,7 @@
             "es": "Adaptador de plantilla ioBroker"
         },
         "authors": [
-            "my Name <my@email.com>"
+            "Jonas Wrede <jonas@wrede.sh>"
         ],
         "docs": {
             "en": "docs/en/admin.md",
